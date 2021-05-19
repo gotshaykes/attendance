@@ -1,5 +1,5 @@
 {
-    "name": "cleaniquecoders/attendance",
+    "name": "gotshaykes/attendance",
     "description": "An Adaptive Attendance Solution",
     "keywords": ["package", "laravel", "attendance", "beacon", "BLE", "API", "Beacon"],
     "license": "MIT",
