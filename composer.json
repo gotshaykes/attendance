@@ -30,12 +30,12 @@
         "cleaniquecoders/blueprint-macro": "^2.2",
         "cleaniquecoders/laravel-helper": "^1.1",
         "cleaniquecoders/laravel-observers": "^1.1",
-        "illuminate/support": "5.*"
+        "illuminate/support",
     },
     "require-dev": {
         "mockery/mockery": "^1.1",
         "orchestra/testbench": "3.5.*|3.6.*|3.7.*",
-        "phpunit/phpunit": "^6.5|^7.0"
+        "phpunit/phpunit",
     },
     "extra": {
         "laravel": {
